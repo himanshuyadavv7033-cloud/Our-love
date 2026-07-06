@@ -7,6 +7,7 @@ function checkPassword() {
     if (pass === PASSWORD) {
         document.getElementById("login").style.display = "none";
         document.getElementById("website").style.display = "block";
+        typeLetter();
     } else {
         document.getElementById("error").innerText = "❌ Incorrect password";
     }
