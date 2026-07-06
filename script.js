@@ -73,7 +73,30 @@ reader.readAsDataURL(file);
 })
 
 }
+}
+}
 
+
+
+const photos = [
+  "Images/IMG_20260413_190830_627.jpg",
+  "Images/IMG_20260702_154955.jpg",
+  "Images/IMG_20260702_171919.jpg",
+  "Images/IMG_20260706_225248.jpg"
+];
+
+const gallery = document.getElementById("gallery");
+
+if (gallery) {
+    gallery.innerHTML = "";
+
+    photos.forEach(photo => {
+        const img = document.createElement("img");
+        img.src = photo;
+        img.className = "photo";
+        gallery.appendChild(img);
+    });
+}
 
 // Music Upload
 
