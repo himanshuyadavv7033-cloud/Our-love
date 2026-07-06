@@ -154,3 +154,15 @@ radial-gradient(circle,#ffd1dc 2px,transparent 2px);
 background-size:40px 40px;
 
 }
+.letter-box{
+background:rgba(255,255,255,.95);
+border:3px solid #ff2d55;
+border-radius:20px;
+padding:25px;
+font-size:20px;
+line-height:1.9;
+white-space:pre-wrap;
+box-shadow:0 0 30px rgba(255,45,85,.35);
+min-height:300px;
+color:#7a0033;
+}
