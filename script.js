@@ -118,3 +118,38 @@ heart.remove();
 }
 
 setInterval(createHeart,400);
+const message = `My Dearest Tannu Priya ❤️,
+
+Every heartbeat of mine whispers your name.
+
+No matter how many miles separate us,
+my heart always finds its way back to you.
+
+You are my happiness,
+my peace,
+my biggest blessing.
+
+I love you endlessly.
+
+Forever Yours,
+❤️ Himanshu ❤️`;
+
+let i = 0;
+
+function typeLetter() {
+
+const box = document.getElementById("typing");
+
+if (!box) return;
+
+if (i < message.length) {
+
+box.innerHTML += message.charAt(i);
+
+i++;
+
+setTimeout(typeLetter,45);
+
+}
+
+}
