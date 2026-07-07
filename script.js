@@ -250,3 +250,45 @@ setTimeout(typeLetter,45);
 }
 
 }
+
+
+function typeLetter() {
+
+const box = document.getElementById("typing");
+
+if (!box) return;
+
+if (i < message.length) {
+
+box.innerHTML += message.charAt(i);
+
+i++;
+
+setTimeout(typeLetter,45);
+
+}
+
+}
+
+// ⬇️ PASTE THE VIDEO GALLERY CODE HERE
+const videos = [
+  "Videos/VID-20260312-WA0006.mp4",
+  "Videos/VID-20260312-WA0007.mp4",
+  "Videos/VID-20260312-WA0008.mp4",
+  "Videos/VID_20260514_092938_161.mp4",
+  "Videos/VID_20260514_092953_491.mp4"
+];
+
+const videoGallery = document.getElementById("videoGallery");
+
+if (videoGallery) {
+  videos.forEach(video => {
+    const v = document.createElement("video");
+    v.src = video;
+    v.controls = true;
+    v.style.width = "100%";
+    v.style.maxWidth = "350px";
+    v.style.margin = "10px";
+    videoGallery.appendChild(v);
+  });
+}
