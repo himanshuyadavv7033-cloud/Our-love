@@ -233,23 +233,7 @@ Forever Yours,
 
 let i = 0;
 
-function typeLetter() {
-
-const box = document.getElementById("typing");
-
-if (!box) return;
-
-if (i < message.length) {
-
-box.innerHTML += message.charAt(i);
-
-i++;
-
-setTimeout(typeLetter,45);
-
-}
-
-}
+function typeLetter() 
 
 
 function typeLetter() {
