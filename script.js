@@ -292,3 +292,6 @@ if (videoGallery) {
     videoGallery.appendChild(v);
   });
 }
+function openSecret() {
+    window.location.href = "secret.html";
+}
