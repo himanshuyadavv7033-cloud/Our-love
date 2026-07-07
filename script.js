@@ -73,8 +73,6 @@ reader.readAsDataURL(file);
 })
 
 }
-}
-}
 
 
 
