@@ -94,7 +94,7 @@ if (gallery) {
         img.className = "photo";
         gallery.appendChild(img);
     });
-}
+}   // 
 
 // Music Upload
 
