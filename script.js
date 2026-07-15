@@ -227,6 +227,25 @@ Mai jab bhi mangunga tmse tumahra waqt mangunga✨ ...  Kab kaha kaise ho iska j
 
 Love uuu bubbu 🫶 🤫.. mine dearest maidam jee 🫀💗..  meri cutie 🥰.. princess . Mine peace 😊..
 
+Pata h maidam. Jee .  Aapke prati mera pyar na lagta h mujhe writer ✍️. Bana dega ..  phirse aaj man kar rha aap pe kuch likhne ka ..  😁 .. phir maidam jee bolegi itna likhte kiu ho .. 🤫
+
+   
+So maidam jee aaj date h 16th July .. aur hmme mile hue 6 months complete ho gyee ..  🥰🫶..
+We have completed a lovely journey of 6 months together with joy 😊,love 💕, caring each other 🫶, and a lot of madness 😁, aur hmne pyar ke sath sath jhagde bhi bahot kiye h .. 🤫..  
+
+Aaj kal na meri maidam jee mere pe bahot sak karne lagi h .  Unko lagta h unka 👶 bahar aa gya h bade sehro me to koi dusri mil jayegi .. 🤦.. maidam jee dav me ladkiyo ki Kami thi kya .. mil jaana aur pyar hona dono me bahot fark hota h .. mujhe aapse pyar h .. aur kisi se jab saccha wla pyar hota h na .to kisi aur ke baare me sochne me bhi lagta h ki aap usse cheat kar rhe ho .. 🫥.. maidam jee ek baar phir se kehta hu .. me only yours 👶💌.. mai bas aapka hu .. 🫀. Aur haa tussi ka matlab hota h tm .. ye koi naam nhi h samjheee 🔪. Maine bola tha tussi na jaoo na .. tm na jaoo .. kuch bhi sochti rehti ho 🤦.. aur ye ( kuch kuch hota h ) movie ka dialogue h ... 
+
+
+Bubbu mai agar ek dost bhi banunga na to aapse puch kar banunga .. aapki marzi ke bina ek dost bhi na banaunga .. aap pyar ho mera  🫶 samjhee ..💕
+
+Kya aisa nhi ho sakta ki hm tumse tumko maange..🤫 aur tm kaho apni chije maangi nhi jaati ..🤔.  Ho sakta h kya maidam jeee .. ? 
+
+Aata nhi tha hmme ikarar karna 🥴.. n jaane kaise sikh hm pyar karna.🫶 ek pal bhi na rukhte they hm kisi ke liye 👀 .. n jaane kaise sikh gye intezar karna .. 😶‍🌫️💌🫀.😁
+
+Pata h maidam jee har baar maine aapko aise dekha h jaise ki andhe ne duniya ..👀🫣
+
+Love uu 💕 my dearest maidam jee 💌.. meri pyari bubbu 🫶.. my love 🫀♾️....mela 👶.. ...  Kissi wali emoji daalne ka man kar rha lekin aap gussa ho jaoge .. 😁. Isiliye na daal rha 🤫... 
+
 
 Forever Yours,
 ❤️ Himanshu ❤️`;
