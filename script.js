@@ -227,6 +227,10 @@ Mai jab bhi mangunga tmse tumahra waqt mangunga✨ ...  Kab kaha kaise ho iska j
 
 Love uuu bubbu 🫶 🤫.. mine dearest maidam jee 🫀💗..  meri cutie 🥰.. princess . Mine peace 😊..
 
+---------------------------_-----------------_---------------------------------
+
+Today's 16th July 🙃... So let's start ✍️
+
 Pata h maidam. Jee .  Aapke prati mera pyar na lagta h mujhe writer ✍️. Bana dega ..  phirse aaj man kar rha aap pe kuch likhne ka ..  😁 .. phir maidam jee bolegi itna likhte kiu ho .. 🤫
 
    
