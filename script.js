@@ -346,3 +346,99 @@ updateMonthMessage();
 function openSecret() {
     window.location.href = "secret.html";
 }
+const letters = {
+
+sad: {
+title: "🌧️ Open when you're sad",
+text: `My Dearest Bubbu ❤️,
+
+If you're reading this, maybe today wasn't your best day.
+
+I wish I could be there to hold your hand and tell you everything will be okay.
+
+Always remember...
+
+You are stronger than you think.
+
+No matter how difficult life becomes...
+
+You will never face it alone.
+
+Because my heart will always stand beside yours.
+
+Smile once for your Yadav Ji. 😊❤️`
+},
+
+miss: {
+title: "🌙 Open when you miss me",
+text: `Hey Maidam Jee ❤️,
+
+If you're missing me right now...
+
+Close your eyes.
+
+Imagine me standing beside you...
+
+Smiling like an idiot after seeing you. 😁
+
+Distance can separate our hands...
+
+But never our hearts.
+
+I'm always with you.
+
+Forever Yours,
+❤️ Himanshu ❤️`
+},
+
+smile: {
+title: "😊 Open when you want to smile",
+text: `My Cute Bubbu ❤️,
+
+Remember our exam days?
+
+Remember how nervous I became whenever I tried talking to you?
+
+And now...
+
+We've completed six beautiful months together.
+
+Thank you for becoming my happiness.
+
+Now...
+
+Smile once for me. 😊🫶`
+},
+
+sleep: {
+title: "🌸 Open before sleeping",
+text: `Good Night Bubbu ❤️🌙
+
+Before you sleep...
+
+Remember...
+
+Someone is thanking God every single day for bringing you into his life.
+
+Sweet dreams.
+
+I'll meet you in your dreams. 🌸✨`
+}
+
+};
+
+function openLetter(type){
+
+document.getElementById("letterTitle").innerText=letters[type].title;
+
+document.getElementById("letterText").innerText=letters[type].text;
+
+document.getElementById("letterPopup").style.display="flex";
+
+}
+
+function closeLetter(){
+
+document.getElementById("letterPopup").style.display="none";
+
+}
