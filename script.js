@@ -6,8 +6,14 @@ function checkPassword() {
 
     if (pass === PASSWORD) {
         document.getElementById("login").style.display = "none";
-        document.getElementById("website").style.display = "block";
-        typeLetter();
+document.getElementById("website").style.display = "block";
+
+const player = document.getElementById("player");
+if (player) {
+    player.play().catch(() => {});
+}
+
+typeLetter();
     } else {
         document.getElementById("error").innerText = "❌ Incorrect password";
     }
