@@ -5,15 +5,23 @@ function checkPassword() {
     const pass = document.getElementById("password").value;
 
     if (pass === PASSWORD) {
+
         document.getElementById("login").style.display = "none";
-document.getElementById("website").style.display = "block";
+        document.getElementById("welcome").style.display = "flex";
 
-const player = document.getElementById("player");
-if (player) {
-    player.play().catch(() => {});
-}
+        updateMonthMessage();
 
-typeLetter();
+        const player = document.getElementById("player");
+        if (player) {
+            player.play().catch(() => {});
+        }
+
+        setTimeout(() => {
+            document.getElementById("welcome").style.display = "none";
+            document.getElementById("website").style.display = "block";
+            typeLetter();
+        }, 4000);
+
     } else {
         document.getElementById("error").innerText = "❌ Incorrect password";
     }
