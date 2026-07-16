@@ -304,6 +304,37 @@ if (videoGallery) {
     videoGallery.appendChild(v);
   });
 }
+function updateMonthMessage() {
+    const start = new Date("2026-01-16");
+    const now = new Date();
+
+    let months = (now.getFullYear() - start.getFullYear()) * 12 +
+                 (now.getMonth() - start.getMonth());
+
+    if (now.getDate() < start.getDate()) {
+        months--;
+    }
+
+    const message = document.getElementById("monthMessage");
+
+    if (!message) return;
+
+    if (months < 12) {
+        message.innerHTML = `Happy ${months} Month${months !== 1 ? "s" : ""}, My Love 🫶`;
+    } else {
+        const years = Math.floor(months / 12);
+        const remainingMonths = months % 12;
+
+        if (remainingMonths === 0) {
+            message.innerHTML = `Happy ${years} Year${years > 1 ? "s" : ""}, My Love 🫶`;
+        } else {
+            message.innerHTML =
+                `Happy ${years} Year${years > 1 ? "s" : ""} ${remainingMonths} Month${remainingMonths > 1 ? "s" : ""}, My Love 🫶`;
+        }
+    }
+}
+
+updateMonthMessage();
 function openSecret() {
     window.location.href = "secret.html";
 }
